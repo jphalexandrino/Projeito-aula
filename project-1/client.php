@@ -1,5 +1,4 @@
 <?php
-//Host: http://localhost:8080/project-1/client.php
     $database = new mysqli(
         "localhost",
         "root",
